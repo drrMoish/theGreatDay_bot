@@ -15,7 +15,7 @@ def echo(update, context):
 # Функция, которая будет запускать бота
 def main():
     # Инициализация бота и получение токена
-    updater = Updater(token='YOUR_TELEGRAM_TOKEN', use_context=True)
+    updater = Updater(token='6279514111:AAGUUAPzivbEuoVpNmbw-GBGlJSnwmEzlZI', use_context=True)
 
     # Получение диспетчера для регистрации обработчиков
     dispatcher = updater.dispatcher
