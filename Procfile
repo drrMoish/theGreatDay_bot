@@ -1,1 +1,1 @@
-web: python your_bot_script.py
+worker: python your_bot_script.py
